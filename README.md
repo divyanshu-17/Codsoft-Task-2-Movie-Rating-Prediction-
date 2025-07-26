@@ -1,4 +1,6 @@
-🎬 Movie Rating Prediction using Machine Learning
+#🎬 Movie Rating Prediction using Machine Learning
+
+https://colab.research.google.com/drive/12-vywhq-z1zHnVN6oTt9uKraAr4dk7ws?authuser=1#scrollTo=vV1bT6FpSXWc
 
 This project builds a regression model that predicts the rating of Indian movies based on features such as Genre, Director, and Runtime, using machine learning techniques.
 
